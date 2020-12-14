@@ -1,0 +1,279 @@
+html{
+	height:100%;
+}
+
+body{
+	background-color:#22232b;
+	margin:auto;
+	min-height:100%;
+}
+
+.navbar{
+	background-color: #14b5d0;
+}
+ul.navbar-nav{
+	padding-left: 35%;
+	font-size: 28px;
+	text-align: center;
+}
+a{
+	color: white;
+  text-decoration: none;
+	font-weight: bold;
+}
+li{
+	padding-right: 35px;
+}
+
+.navbar-brand{
+ font-size:45px;
+ font-weight: bold;
+}
+
+.w2{
+	height:100%;
+	width:50%;
+	float:left;
+	padding-top:2%
+}
+.w3{
+	height:100%;
+	width:45%;
+	float:right;
+	padding-top:2%;
+}
+.wrapper2{
+	height:600px;
+	width:30%;
+	background-color:#14b5d0;
+	float:right;
+	padding-bottom:200px;
+	padding-top:100;
+}
+
+h1{
+	font-size:35px;
+	color:white;
+	margin-left:50%;
+	position:relative;
+  font-family: helvetica;
+	font-weight: bold;
+
+}
+.accountText{
+	height:auto;
+	width:100%;
+}
+
+p{
+	font-size:20px;
+	color:white;
+
+}
+.nav-link:hover{
+	opacity:1;
+
+
+
+}
+h2{
+	font-size:25px;
+	color:white;
+
+}
+
+h3{
+	font-size:20px;
+	color:#14b5d0;
+
+}
+
+.social{
+	padding-top:500px;
+	height:200px;
+	width:100%;
+
+}
+
+#fb{
+	height:39px;
+	width:50px;
+	padding-left:10px;
+}
+#tw{
+	height:40px;
+	width:50px;
+	padding-left:10px;
+}
+
+/* Signup styling */
+.wrapper-main{
+	height: 1000px;
+	width:100%;
+	background-color: #14b5d0;
+}
+
+.space{
+	height: 100px;
+}
+.space2{
+	width:100%;
+	height:20px;
+}
+.i{
+width:450px;
+padding-top:8px;
+margin-top:10px;
+border-radius: 8px;
+}
+.w4{
+	margin-left:50%;
+	margin-right:50%;
+
+}
+.wrapper{
+	width:100%;
+	height:auto;
+	margin:auto;
+	position:relative;
+	padding-right:23%;
+	padding-top: 100px;
+}
+#btn1{
+	width:450.5px;
+	margin-top: 18px;
+	padding-top:15px;
+	border-radius: 12px;
+	background-color: #14b5d0;
+}
+
+h4{
+ font-size: 25px;
+ color:white;
+}
+h5{
+	padding-left: 45%;
+	font-size:20px;
+	color:white;
+}
+b{
+	color:white;
+}
+label{
+	color:white;
+}
+br{
+	color:white;
+}
+.leavealink{
+	padding-right: 23%;
+}
+.footerComment{
+	width:100%;
+	padding-left: 38.5%;
+}
+.Submit{
+	width:200;
+	padding:5px;
+	border-radius: 12px;
+	background-color: #14b5d0;
+}
+.container-fluid{
+	paddding-right:50%;
+}
+
+/* Main page class */
+.workouts{
+	height:400px;
+	width:25%;
+	float:left;
+	margin-left: 20%;
+
+}
+.gym{
+	height:400px;
+	width:35%;
+	float:right;
+	margin-right: 20%;
+
+}
+.membership{
+	height:480px;
+	width:60%;
+	float:left;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.profile{
+	height:400px;
+	width:35%;
+	float:left;
+	margin-left: 20%;
+}
+.ptlogin{
+	height:400px;
+	width:25%;
+	float:right;
+	margin-right: 20%;
+}
+.workouts img{
+	width:100%;
+	height:100%;
+}
+.gym img{
+	width:100%;
+	height:100%;
+}
+.membership img{
+	width:100%;
+	height:100%;
+}
+.profile img{
+	width:100%;
+	height:100%;
+}
+.ptlogin img{
+	width:100%;
+	height:100%;
+}
+.workouts { transition: all .2s ease-in-out; }
+.workouts:hover { transform: scale(1.1); }
+
+.gym { transition: all .2s ease-in-out; }
+.gym:hover { transform: scale(1.1); }
+
+.membership { transition: all .2s ease-in-out; }
+.membership:hover { transform: scale(1.1); }
+
+.profile { transition: all .2s ease-in-out; }
+.profile:hover { transform: scale(1.1); }
+
+.ptlogin { transition: all .2s ease-in-out; }
+.ptlogin:hover { transform: scale(1.1); }
+
+.space3{
+	height:1380px;
+	width:100%;
+}
+
+.jumbotron{
+	background-color: #14b5d0 !important;
+}
+
+#container{
+margin: 10px;
+} 
+
+.workout{
+border: 2px	solid grey;
+background-color: #14b5d0;
+color:white;
+margin-bottom: 10px;
+padding:10 px;
+border-radius: 5px;
+box-shadow: 1px 1px 5 px 0px rgba (0,0,0,0.35);
+}
+
+.new{
+
+}

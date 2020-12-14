@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Citywest gym",
+        "location": "Saggart, Dublin 24",
+        "lat": "53.282974",
+        "lng": "-6.422996",
+        "id": 1634245
+    },
+    {
+        "name": "ABS Gym",
+        "location": "Dublin",
+        "lat": " 53.349202",
+        "lng": "-6.270070",
+        "id": 1133823
+    },
+    {
+        "name": "First Step Fitness",
+        "location": "Kildare",
+        "lat": "53.155199",
+        "lng": "-6.912407",
+        "id": 1975797
+    },
+    {
+        "name": "Flyefit",
+        "location": "Liffey Valley",
+        "lat": "53.354615",
+        "lng": "-6.402843",
+        "id": 1812010
+    },
+    {
+        "name": "Raw Gym",
+        "location": "Sandyford",
+        "lat": "53.272932",
+        "lng": "-6.203933",
+        "id": 1831834
+    }
+]
